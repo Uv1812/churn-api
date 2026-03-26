@@ -3,7 +3,7 @@
 A machine learning model served as a live REST API.
 
 ## Live Demo
-[https://ml-api-xxxx.onrender.com/docs](https://churn-api-l8su.onrender.com/docs)
+https://churn-api-l8su.onrender.com/docs
 
 ## Tech Stack
 - Python, Scikit-learn
